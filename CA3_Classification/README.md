@@ -134,15 +134,3 @@ A variety of classification models are to be implemented and evaluated:
     [cite_start]<li>Macro, Micro, and Weighted Averages [cite: 366]</li>
   </ul>
   <hr>
-  <h4>
-    Course Information
-  </h4>
-  <ul>
-    <li>
-      [cite_start]<strong>Instructors</strong>: Dr. Fadaei, Dr. Yaghoubzadeh [cite: 258, 259]
-    </li>
-    <li>
-      [cite_start]<strong>Assignment Designers</strong>: Javad Kavian, Mohammad Amanloo, Mehdi Naini [cite: 261]
-    </li>
-  </ul>
-</details>
