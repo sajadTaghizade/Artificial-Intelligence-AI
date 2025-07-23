@@ -65,7 +65,7 @@
         <li>Classification Models</li>
         <li>Decision Tree, Random Forest, XGBoost</li>
       </ul>
-      <a href="./CA3_Constraint_Satisfaction">➡️ View Project</a>
+      <a href="./CA3_Classification">➡️ View Project</a>
     </td>
   </tr>
 
@@ -85,7 +85,7 @@
         <li>Convolutional Neural Networks (CNN)</li>
         <li>PyTorch</li>
       </ul>
-      <a href="./CA4_Classification">➡️ View Project</a>
+      <a href="./CA4_Neural_Networks">➡️ View Project</a>
     </td>
   </tr>
 
@@ -105,7 +105,7 @@
         <li>Dimensionality Reduction (PCA)</li>
         <li>Sentence-Transformers</li>
       </ul>
-      <a href="./CA5_Neural_Networks">➡️ View Project</a>
+      <a href="./CA5_Clusrering">➡️ View Project</a>
     </td>
   </tr>
 </table>
